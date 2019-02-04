@@ -1283,13 +1283,33 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 34,
    "metadata": {},
-   "outputs": [],
+   "outputs": [
+    {
+     "data": {
+      "application/javascript": [
+       "IPython.OutputArea.auto_scroll_threshold = 9999;"
+      ],
+      "text/plain": [
+       "<IPython.core.display.Javascript object>"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
    "source": [
     "%%javascript\n",
     "IPython.OutputArea.auto_scroll_threshold = 9999;"
    ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
