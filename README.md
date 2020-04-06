@@ -1,2 +1,2 @@
-# dse200x
-Follow along for DSE200x Python for data science edx/ucsd
+# DSE200x
+DSE200x Python for data science edx/ucsd
